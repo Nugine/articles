@@ -60,4 +60,6 @@
 
 ### 2020 年 4 月
 
+[Rust 开发环境指路](./2020/04/rust-dev/README.md)
+
 [Rust 有趣片段(四)：sealed trait](./2020/04/interesting-rust-part-4-sealed-trait/README.md)
