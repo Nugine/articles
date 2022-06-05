@@ -6,6 +6,8 @@
 
 [Rust 中的“隐藏函数”](./2022/06/rust-hidden-functions/README.md)
 
+[TLA+ 学习路线](./2022/06/tlaplus-guide/README.md)
+
 ### 2022 年 5 月
 
 [SIMD 编解码加速库](./2022/05/simd-accelerated-libraries/README.md)
