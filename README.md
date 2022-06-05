@@ -81,3 +81,7 @@
 [Unsafe 的隐藏坑点](./2020/01/unsafe-trap/README.md)
 
 [Brainfuck JIT 虚拟机教程](./2020/01/bfjit/README.md)
+
+### 2019 年 11 月
+
+[Rust 数据结构: 广义表](./2019/11/rust-list/README.md)
