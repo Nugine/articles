@@ -70,4 +70,6 @@
 
 ### 2020 年 2 月
 
+[Rust 有趣片段(一)：defer](./2020/02/interesting-rust-part-1-defer/README.md)
+
 [Rust 有趣片段(二)：anymap](./2020/02/interesting-rust-part-2-anymap/README.md)
