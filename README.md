@@ -75,3 +75,8 @@
 [Rust 有趣片段(一)：defer](./2020/02/interesting-rust-part-1-defer/README.md)
 
 [Rust 有趣片段(二)：anymap](./2020/02/interesting-rust-part-2-anymap/README.md)
+
+### 2020 年 1 月
+
+[Brainfuck JIT 虚拟机教程](./2020/01/bfjit/README.md)
+
