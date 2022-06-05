@@ -24,6 +24,6 @@ uuid-simd, hex-simd, base64-simd: 三个使用 SIMD 的编解码加速库
 
 基准测试结果：<https://github.com/Nugine/simd/blob/main/docs/benches-v050.md>
 
-设计思路：<https://zhuanlan.zhihu.com/p/438595382>
+设计思路：[关于可移植 SIMD 库的设计](./../../../2021/11/portable-simd/README.md)
 
 欢迎试用和测试！
