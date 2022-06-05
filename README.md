@@ -53,3 +53,7 @@
 [Rust 性能调优](./2020/08/rust-performance/README.md)
 
 [Rust Trust 问题](./2020/08/rust-trust/README.md)
+
+### 2020 年 5 月
+
+[Rust 送命题(误)](./2020/05/rust-test/README.md)
