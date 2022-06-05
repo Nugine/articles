@@ -50,4 +50,6 @@
 
 ### 2020 年 8 月
 
+[Rust 性能调优](./2020/08/rust-performance/README.md)
+
 [Rust Trust 问题](./2020/08/rust-trust/README.md)
