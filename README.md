@@ -24,6 +24,10 @@
 
 [用 goto 把递归函数变换为迭代函数](./2021/10/goto-iteration/README.md)
 
+### 2021 年 8 月
+
+[用编译期计算来连接字符串](./2021/08/const-concat/README.md)
+
 ### 2021 年 2 月
 
 [关于 io_uring 与 Rust 的思考](./2021/02/io_uring_and_rust/README.md)
