@@ -47,3 +47,7 @@
 ### 2020 年 9 月
 
 [在 openEuler 上运行 E2E 测试](./2020/09/openeuler-rust/README.md)
+
+### 2020 年 8 月
+
+[Rust Trust 问题](./2020/08/rust-trust/README.md)
