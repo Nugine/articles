@@ -78,5 +78,6 @@
 
 ### 2020 年 1 月
 
-[Brainfuck JIT 虚拟机教程](./2020/01/bfjit/README.md)
+[Unsafe 的隐藏坑点](./2020/01/unsafe-trap/README.md)
 
+[Brainfuck JIT 虚拟机教程](./2020/01/bfjit/README.md)
