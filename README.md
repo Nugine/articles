@@ -57,3 +57,7 @@
 ### 2020 年 5 月
 
 [Rust 送命题(误)](./2020/05/rust-test/README.md)
+
+### 2020 年 4 月
+
+[Rust 有趣片段(四)：sealed trait](./2020/04/interesting-rust-part-4-sealed-trait/README.md)
