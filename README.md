@@ -43,3 +43,7 @@
 ### 2020 年 10 月
 
 [一种转换异步流的轻量级方法](./2020/10/async-stream/README.md)
+
+### 2020 年 9 月
+
+[在 openEuler 上运行 E2E 测试](./2020/09/openeuler-rust/README.md)
