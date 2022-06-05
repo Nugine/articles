@@ -63,3 +63,7 @@
 [Rust 开发环境指路](./2020/04/rust-dev/README.md)
 
 [Rust 有趣片段(四)：sealed trait](./2020/04/interesting-rust-part-4-sealed-trait/README.md)
+
+### 2020 年 3 月
+
+[Rust 有趣片段(三)：Y 组合子](./2020/03/interesting-rust-part-3-y-combinator/README.md)
