@@ -67,3 +67,7 @@
 ### 2020 年 3 月
 
 [Rust 有趣片段(三)：Y 组合子](./2020/03/interesting-rust-part-3-y-combinator/README.md)
+
+### 2020 年 2 月
+
+[Rust 有趣片段(二)：anymap](./2020/02/interesting-rust-part-2-anymap/README.md)
