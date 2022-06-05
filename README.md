@@ -36,4 +36,6 @@
 
 [关于 io_uring 与 Rust 的思考](./2021/02/io_uring_and_rust/README.md)
 
+[循环队列的正确写法](./2021/02/ring-buffer/README.md)
+
 [Rust 有趣片段(五)：catch](./2021/02/interesting-rust-part-5-catch/README.md)
