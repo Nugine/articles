@@ -85,3 +85,7 @@
 ### 2019 年 11 月
 
 [Rust 数据结构: 广义表](./2019/11/rust-list/README.md)
+
+### 2019 年 7 月
+
+[设计个人pastebin后端服务](./2019/07/pastebin/README.md)
