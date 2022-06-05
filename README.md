@@ -28,6 +28,10 @@
 
 [用编译期计算来连接字符串](./2021/08/const-concat/README.md)
 
+### 2021 年 5 月
+
+[Rust 自定义 trait object](./2021/05/rust-custom-trait-object/README.md)
+
 ### 2021 年 2 月
 
 [关于 io_uring 与 Rust 的思考](./2021/02/io_uring_and_rust/README.md)
