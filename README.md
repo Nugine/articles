@@ -8,6 +8,8 @@
 
 [TLA+ 学习路线](./2022/06/tlaplus-guide/README.md)
 
+[如何在 Rust 中写 RDMA](./2022/06/rust-rdma/README.md)
+
 ### 2022 年 5 月
 
 [SIMD 编解码加速库](./2022/05/simd-accelerated-libraries/README.md)
