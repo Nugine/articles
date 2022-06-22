@@ -12,6 +12,8 @@
 
 [Rust 实现 offset_of](./2022/06/rust-offset-of/README.md)
 
+[Unsafe Rust 随堂小测（一）](./2022/06/unsafe-rust-test-1/README.md)
+
 ### 2022 年 5 月
 
 [SIMD 编解码加速库](./2022/05/simd-accelerated-libraries/README.md)
