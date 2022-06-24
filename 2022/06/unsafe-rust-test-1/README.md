@@ -23,7 +23,9 @@ pub fn bytes_of<T>(val: &T) -> &[u8] {
 
 #### 第 2 题
 
-以下 Memory trait 的 as_bytes 方法为什么是不健全的？（30分）
+以下 Memory trait 的 as_bytes 方法为什么是不健全的？（10分）
+
+请提出至少两种修复方案，使该 trait 健全。(20分)
 
 ```rust
 pub trait Memory {
