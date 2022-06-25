@@ -18,6 +18,8 @@
 
 [Unsafe Rust 随堂小测（三）](./2022/06/unsafe-rust-test-3/README.md)
 
+[Unsafe Rust 随堂小测参考答案](./2022/06/unsafe-rust-test-answer/README.md)
+
 ### 2022 年 5 月
 
 [SIMD 编解码加速库](./2022/05/simd-accelerated-libraries/README.md)
