@@ -195,7 +195,7 @@ pub struct Month(u8);
 
 impl Month {
     pub fn new(month: u8) -> Self {
-        assert!((1..12).contains(&month));
+        assert!((1..=12).contains(&month));
         Self(month)
     }
 
