@@ -96,7 +96,7 @@ pub fn is_ascii(s: &[u8]) -> bool {
     unsafe {
         let mut p = s.as_ptr();
         let e = p.add(s.len());
-        while p.add(8) <= e {
+        for _ in 0..s.len() / 8 {
             let chunk = p.cast::<u64>().read();
             if chunk & (0x8080_8080_8080_8080) != 0 {
                 return false;
