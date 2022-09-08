@@ -2,6 +2,10 @@
 
 ## 目录
 
+### 2022 年 9 月
+
+[写 Rust 二叉树题的正确姿势](./2022/09/rust-unsafe-binary-tree/README.md)
+
 ### 2022 年 6 月
 
 [Rust 中的“隐藏函数”](./2022/06/rust-hidden-functions/README.md)
